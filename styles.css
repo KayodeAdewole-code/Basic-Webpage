@@ -18,4 +18,23 @@ h2 {
 
 }
 
+#image1 {
+    height: 300px;
+    width: 300px;
 
+}
+
+.image2 {
+    height:300px ;
+    width:300px ;
+
+
+}
+
+#image3 {
+    border: dashed green 10px;
+}
+
+#heading {
+    border: outset ;
+}

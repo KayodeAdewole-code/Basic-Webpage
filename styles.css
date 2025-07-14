@@ -18,6 +18,8 @@
 
 .container #about {
     grid-row-start: 2;
+    background-color: white;
+    color: blue;
 }
 
 .container #image {

@@ -26,6 +26,7 @@
 .container #image {
     grid-row-start: 2;
     border: 5px black dotted;
+    padding: 50px;
 }
 
 .container #form {

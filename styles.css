@@ -25,7 +25,7 @@
 
 .container #image {
     grid-row-start: 2;
-    border: 5px black dotted;
+    border: 5px black solid;
     padding: 50px;
 }
 
